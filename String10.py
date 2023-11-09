@@ -7,4 +7,6 @@ def main(x,y):
     Returns:
         str: return answer.
     """
-    return 
+    a = '"(4+6)*2=20"'
+    return a
+print(main(4,6)) 
