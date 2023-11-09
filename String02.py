@@ -6,4 +6,8 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    a = "CODESCHOOLUZ"
+    b = "PYTHONUZ"
+    return a,b
+print(main())
+     
